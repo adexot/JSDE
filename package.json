@@ -1,0 +1,19 @@
+{
+  "name": "jsde",
+  "version": "0.0.1",
+  "description": "JavaScript Development Environment Tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JavaScript",
+    "Deelopment",
+    "Environment",
+    "npm",
+    "node",
+    "express"
+  ],
+  "author": "Adekunle Oseni",
+  "license": "ISC"
+}
